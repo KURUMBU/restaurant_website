@@ -1,0 +1,43 @@
+.header1 {
+    width: 100%;
+}
+
+.header101 {
+    width: 45%;
+    float: left;
+}
+
+.header102 {
+    width: 10%;
+}
+
+.header103 {
+    width: 45%;
+    float: right;
+    background-color: #C9ECB5;
+}
+
+.btn {
+    border-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.header2 {
+    width: 80%;
+}
+
+.header201 {
+    width: 45%;
+    float: left;
+}
+
+.header202 {
+    width: 45%;
+    float: right;
+}
+
+.btn1 {
+    background-color: #6CB840;
+    border-color: #6cb84005;
+    border-radius: 10%;
+}
