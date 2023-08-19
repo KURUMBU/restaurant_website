@@ -41,3 +41,14 @@
     border-color: #6cb84005;
     border-radius: 10%;
 }
+
+.body101 {
+    width: 50%;
+    float: left;
+}
+
+.body102 {
+    width: 50%;
+    float: right;
+}
+
