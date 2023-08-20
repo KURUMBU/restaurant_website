@@ -1,10 +1,20 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    scroll-behavior: smooth;
+}
+
+nav>ul>li {
+    text-align: left;
+    display: inline-block;
+    padding-left: 90px;
+    padding-top: 40px;
+    text-decoration: none;
+}
 .header1 {
     width: 100%;
 }
 
 .header101 {
-    width: 45%;
-    float: left;
 }
 
 .header102 {
@@ -12,14 +22,18 @@
 }
 
 .header103 {
-    width: 45%;
-    float: right;
-    background-color: #C9ECB5;
 }
 
 .btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
     border-color: rgba(0, 0, 0, 0);
     background-color: rgba(0, 0, 0, 0);
+    clip-path: circle(600px at 80% 900px);
+    transform: scaleY(-1);
 }
 
 .header2 {
@@ -40,7 +54,7 @@
     background-color: #6CB840;
     border-color: #6cb84005;
     border-radius: 10%;
-}
+
 
 .body101 {
     width: 50%;
