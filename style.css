@@ -54,7 +54,7 @@ nav>ul>li {
     background-color: #6CB840;
     border-color: #6cb84005;
     border-radius: 10%;
-
+}
 
 .body101 {
     width: 50%;
@@ -66,3 +66,13 @@ nav>ul>li {
     float: right;
 }
 
+.join{
+    display: flex;
+    margin-top: -50px;
+}
+
+.them{
+    margin-top: 25%;
+    margin-left: -350px;
+    margin-bottom: -50px;
+}
