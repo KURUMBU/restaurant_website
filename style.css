@@ -76,3 +76,144 @@ nav>ul>li {
     margin-left: -350px;
     margin-bottom: -50px;
 }
+
+.hot {
+    background-color: #C9ECB5;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 900px;
+}
+#hot {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.deals {
+    padding-left: 900px;
+    margin-top: -400px;
+}
+
+.likemeat {
+    display: flex;
+    padding: 0;
+}
+
+.pione {
+    display: flex;
+    margin-top: -50px;
+}
+
+.pitwo {
+    margin-top: 25%;
+    margin-left: -350px;
+    margin-bottom: -50px;
+} 
+
+.p {
+    padding-right: 150px;
+    text-align: center;
+    padding-left: 10px;
+}
+
+.b {
+    padding-left: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+} 
+
+.burger {
+    padding-left: 250px;
+}
+
+.contact {
+    text-align: center;
+    background-color: #FFD77C;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#contact {
+    padding-top: 30px;
+}
+
+.eat {
+    text-align: center;
+    float: right;
+    padding-top: 200px;
+}
+
+.img {
+    float: left;
+}
+
+h2 {
+    text-align: left;
+}
+
+button {
+    color: white;
+    border-radius: 20px;
+    background-color: #6CB840;
+    border-style: none;
+    width: 120px;
+    height: 35px;
+    padding-top: 3px;
+    margin-bottom: 50px;
+}
+
+.email {
+    width: 25%;
+    text-align: left;
+    background-color: white;
+    color: black;
+}
+.send {
+    width: 120px;
+    height: 35px;
+    padding-top: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-left: 45%;
+    margin-bottom: 80px;
+    margin-top: 5px;
+}
+
+#send {
+    width: 50px;
+    height: 20px;
+    border-radius: 0px;
+    margin-left: 1300px;
+}
+
+.icon {
+    border-radius: 0px;
+    margin-left: 1300px;
+    border-style: none;
+}
+
+.sunday {
+    float: left;
+    margin-left: 20px;
+}
+
+.chestnut {
+    float: left;
+    padding-left: 30px;
+    margin-top: 50px;
+    border-left: #649549;
+    border-left-style: dashed;
+}
+
+.follow {
+    float: right;
+    padding-right: 100px;
+    margin-top: 50px;
+}
+
+footer {
+    background-color: #C9ECB5;
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 60px;
+}
