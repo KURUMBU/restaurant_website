@@ -10,7 +10,8 @@ This is the landing page for a restaurant website. The project is to test my und
 | Header | Body | Footer |
 | ------------------------------------| -------------------------------- | ----------------------------------- |
 |![Header](src/Screenshots/header.png)|![Body](src/Screenshots/body.png) |![Footer](src/Screenshots/footer.png)|
-The main goal is to create a page that resembles the one provided.
+
+* The main goal is to create a page that resembles the one provided.
 
 ## Pre-requisites
 - Linux/Windows/MacOS
